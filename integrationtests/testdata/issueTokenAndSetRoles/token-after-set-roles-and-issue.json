@@ -1,0 +1,38 @@
+{
+  "token": "TTT-abcd",
+  "name": "semi-token",
+  "ticker": "SEMI",
+  "type": "SemiFungibleDCDT",
+  "numDecimals": 0,
+  "issuer": "drt1k04pxr6c0gvlcx4rd5fje0a4uy33axqxwz0fpcrgtfdy3nrqauqq4s3zqj",
+  "currentOwner": "drt1k04pxr6c0gvlcx4rd5fje0a4uy33axqxwz0fpcrgtfdy3nrqauqq4s3zqj",
+  "ownersHistory": [
+    {
+      "address": "drt1k04pxr6c0gvlcx4rd5fje0a4uy33axqxwz0fpcrgtfdy3nrqauqq4s3zqj",
+      "timestamp": 10000,
+      "timestampMs": 10000000
+    }
+  ],
+  "properties": {
+    "canMint": false,
+    "canBurn": false,
+    "canUpgrade": false,
+    "canTransferNFTCreateRole": false,
+    "canAddSpecialRoles": false,
+    "canPause": false,
+    "canFreeze": false,
+    "canWipe": false,
+    "canChangeOwner": false,
+    "canCreateMultiShard": false
+  },
+  "roles": {
+     "DCDTRoleNFTCreate": [
+      "drt1k04pxr6c0gvlcx4rd5fje0a4uy33axqxwz0fpcrgtfdy3nrqauqq4s3zqj"
+    ],
+    "DCDTRoleNFTBurn": [
+       "drt1k04pxr6c0gvlcx4rd5fje0a4uy33axqxwz0fpcrgtfdy3nrqauqq4s3zqj"
+  ]
+  },
+  "timestamp": 10000,
+  "timestampMs": 10000000
+}

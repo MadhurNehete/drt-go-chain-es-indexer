@@ -1,0 +1,35 @@
+{
+  "miniBlockHash": "c0693075612fdbd7c26ea7b1017a83fcd1b1808dea4667a45fa6de5544bb2308",
+  "nonce": 6,
+  "round": 50,
+  "value": "0",
+  "valueNum": 0,
+  "receiver": "drt13u7zyekzvdvzek8768r5gau9p6677ufppsjuklu9e6t7yx7rhg4s8mwfp8",
+  "sender": "drt1ef6470tjdtlgpa9f6g3ae4nsedmjg0gv6w73v32xtvhkfff993hqrgc9um",
+  "receiverShard": 0,
+  "senderShard": 0,
+  "gasPrice": 1000000000,
+  "gasLimit": 104011,
+  "gasUsed": 104011,
+  "fee": "104000110000000",
+  "feeNum": 0.00010400011,
+  "initialPaidFee": "104000110000000",
+  "data": "RENEVFRyYW5zZmVyQDU0NDc0ZTJkMzgzODYyMzgzMzY2QDBh",
+  "signature": "",
+  "timestamp": 5040,
+  "timestampMs": 5040000,
+  "status": "success",
+  "searchOrder": 0,
+  "hasScResults": true,
+  "tokens": [
+    "TGN-88b83f"
+  ],
+  "dcdtValues": [
+    "10"
+  ],
+  "dcdtValuesNum": [
+    1e-17
+  ],
+  "operation": "DCDTTransfer",
+  "epoch": 0
+}
